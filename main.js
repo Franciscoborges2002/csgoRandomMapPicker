@@ -20,7 +20,8 @@ function randomMap(){
   document.getElementById('result').innerHTML = randomItem;
     
   for(var i = 0; i>0; i++){
-    document.getElementById('history').innerHTML = randomItem;
+      i++;
+      document.getElementById('history').innerHTML = randomItem;
 }    
 
     
