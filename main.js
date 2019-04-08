@@ -8,7 +8,10 @@ var maps = [
     'Mirage',
     'Canals',
     'Train',
-    'Subzero'
+    'Biome',
+    'Zoo',
+    'Abbey',
+    'Vertigo'
 ];
 
 function randomMap(){
